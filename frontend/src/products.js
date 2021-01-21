@@ -29,7 +29,7 @@ const products = [
 {
     _id:'3',
     name:'Cannon EOS 80D DSLR Camera',
-    image:'/images/camera1.jpg',
+    image:'/images/camera.jpg',
     description:
     'Characterized by versatile imaging specs,the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intutive design',
     brand:'Cannon',
@@ -42,7 +42,7 @@ const products = [
 {
     _id:'4',
     name:'Sony Playstation 4 Pro',
-    image:'/images/playstation1.jpg',
+    image:'/images/playstation.jpg',
     description:
     'The ultimate home entertainment center starts with Playstation. Whether you are into gaming,HD movies,television,music',
     brand:'Sony',
@@ -55,7 +55,7 @@ const products = [
 {
     _id:'5',
     name:'Logitech G-series Gaming Mouse',
-    image:'/images/mouse1.jpg',
+    image:'/images/mouse.jpg',
     description:
     'Get a better  handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
     brand:'Logitech',
